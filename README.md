@@ -22,7 +22,7 @@ The simple code to make animated `Bulb` using HTML & CSS.
   </p>
 </details>
 
-Visit <a href="https://vikrant-v28.github.io/animated_bulb/">Here</a>
+<!-- Visit <a href="https://vikrant-v28.github.io/animated_bulb/">Here</a> -->
 
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
