@@ -1,4 +1,5 @@
 /** @format */
+
 html,
 body {
   font-family: Georgia, serif;
@@ -166,4 +167,5 @@ input[value="off"]:checked ~ label:after {
             transform: translate(-1px, 0px) scale(1.01, 1.06) skew(-0.9deg, 0deg);
   }
 }
+
 /*# sourceMappingURL=style.css.map */
